@@ -16,6 +16,7 @@ header img {
 
 header {
     display: flex;
+    /* --Flex-box: */
     justify-content: space-between;
     text-align: end;
     background-color: rgb(56, 112, 185);
